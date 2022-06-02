@@ -21,6 +21,7 @@ export default class App extends React.Component {
         source={require('../Niceproj/assets/splashscreen/test.json')}
         autoPlay loop
         resizeMode='contain'
+        
       />
     );
   }
