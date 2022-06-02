@@ -15,7 +15,6 @@ export default class App extends React.Component {
   render() {
     return (
       <LottieView
-      
         ref={animation => {
           this.animation = animation;
         }}
